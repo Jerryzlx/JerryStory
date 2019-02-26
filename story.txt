@@ -1,3 +1,5 @@
   Jerry is a student in the University of Wisconsin in Madison. He has a exam of CS400 at 8:00 AM tomorrow.
 
 Jerry wants to excel in his exam. He puts an all nighter to prepare for the exam.
+
+He did this because he was incredibly nervous. Jerry was a very dilligent student, and he went to every lecture, took detailed notes, paid attention in class, and did all his homework assignments. He was really good at computer science. Everything seemed to come easy for him, and he even got 100% on every single homework assignment and quiz so far. There was really no reason for him to be nervous. He was good at the class, and had already studied for this test for the past two days. Today, he had studied 4 hours already. But it was 9:00 P.M. and Jerry still, inexplicably, felt nervous for the test.
